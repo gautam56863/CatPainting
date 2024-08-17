@@ -1,2 +1,2 @@
 ﻿# CatPainting
- <a href="https://catart.netlify.app/">Click Me to Prev</a>
+ <p><a href="https://catart.netlify.app/">Click Me</a> to view the Project</p>
